@@ -18,7 +18,7 @@
   <img align="center" alt="Babi-js" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />           
  </div>
  
-### 🛜 Socials:
+### 🛜 Redes:
  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barbs.melo/?next=%2F)
  [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barbaracst)
 
